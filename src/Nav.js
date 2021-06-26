@@ -29,7 +29,7 @@ const drawerWidth = 240;
 
 const bgcolor = createMuiTheme({
     palette: {
-        primary: {
+        info: {
             main: "#000000",
         }
     },
